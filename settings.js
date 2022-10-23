@@ -19,8 +19,8 @@ global.APIKeys = {
 }
 
 globale . propriétaire
-globale . préfa  = [ '' , '!' , '.' , '🐦' , '🐤' , '🗿' ]
-global.sp = '⭔'
+globale . préfa   = [ '' , '!' , '.' , '🐦' , '🐤' , '🗿' ]
+globale . sp  =  '⭔'
 global.mess = {
     success: 'Done ✓',
     admin: 'This Feature Is Only For Admin!',
