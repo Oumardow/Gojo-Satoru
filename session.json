@@ -33,33 +33,7 @@
       },
       "signature": {
         "type": "Buffer",
-        "données" : ",
-
-    "firstUnuploadedPreKeyId": 31,
-
-    "serverHasPreKeys": vrai,
-
-    "Compte": {
-
-      "détails": "CODD3P8GEP6v0poGGAE=",
-
-      "accountSignatureKey": "oA0ZVXb5Ue2S1TQBPyY0savXRmpncky8EfeP95pq5FE=",
-
-      "accountSignature": "0qiouEc07FLCmKBPOjtBJfi5SlZdryYDWvYS27e0c5elcAvpZtvPjaEAUUapizVgD8QljCETX8K8HwU8rSOdCQ==",
-
-      "deviceSignature": "T9oAt/HRo2aHHrk0v2jaCGVWqINLoF4KGtHWHjpEptPoMYbZDi/yKi3xlqxV2OqZJulo0UqhiWokvq675HEEjQ=="
-
-    },
-
-    "moi": {
-
-      "id": "22372268134:25@s.whatsapp.net",
-
-      "nomvérifié": "",
-
-      "name": "Madara Uchiwa 😎"
-
-    },"
+        "data": "M3U37L6AXTVlvCbaCd8gwSv7mjsfD8fmm+Huu5NsGmcoWPePOHGax1HY3ccyJeeVc7ekRHaLgjDuyzJLHA6Ohw=="
       },
       "keyId": 1
     },
