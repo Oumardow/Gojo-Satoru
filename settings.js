@@ -18,7 +18,35 @@ global.APIKeys = {
 }
 
 globale . propriétaire
-globale . préfa   = [ '' , '!' , '.' , '🐦' , '🐤' , '🗿' ]
+globale . préfa  propriétaire
+
+globale  .  préfa    =  [  ''  ,  '!'  ,  '.'  ,  '🐦'  ,  '🐤'  ,  '🗿'  ]
+
+globale  .  sp   =   '⭔'
+
+globale . désordre  =  {
+
+    succès : 'Terminé ✓' ,
+
+    admin : 'Cette fonctionnalité est réservée aux administrateurs !' ,
+
+    botAdmin : 'Le bot doit d'abord être administrateur !' ,
+
+    propriétaire : 'Cette fonctionnalité est réservée au propriétaire !' ,
+
+    group : 'Fonctionnalité utilisée uniquement pour les groupes !' ,
+
+    private : 'Fonctionnalités utilisées uniquement pour le chat privé !' ,
+
+    bot : 'Cette fonctionnalité est réservée aux robots' ,
+
+    wait : 'Attendez une minute...' ,
+
+    erreur : 'Erreur ! Peut-être que la clé Api est expirée🤔 !' ,
+
+    endLimit : 'Votre limite quotidienne a expiré, la limite sera réinitialisée toutes les 12 heures' ,
+
+}  = [ '' , '!' , '.' , '🐦' , '🐤' , '🗿' ]
 globale . sp  =  '⭔'
 global.mess = {
     success: 'Done ✓',
