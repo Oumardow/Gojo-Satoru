@@ -19,36 +19,8 @@
         "type": "Buffer",
         "data": "mvqywm/ZN5nPx2KO5mIhqfmsCVTwUYVZsvGIKTHODEw="
       }
-    }," ,
-
-    "nextPreKeyId" : 31 ,
-
-    "firstUnuploadedPreKeyId" : 31 ,
-
-    "serverHasPreKeys" : vrai ,
-
-    "compte" : {
-
-      "détails" : " CODD3P8GEP6v0poGGAE= " ,
-
-      "accountSignatureKey" : " oA0ZVXb5Ue2S1TQBPyY0savXRmpncky8EfeP95pq5FE= " ,
-
-      "accountSignature" : " 0qiouEc07FLCmKBPOjtBJfi5SlZdryYDWvYS27e0c5elcAvpZtvPjaEAUUapizVgD8QljCETX8K8HwU8rSOdCQ== " ,
-
-      "deviceSignature" : " T9oAt/HRo2aHHrk0v2jaCGVWqINLoF4KGtHWHjpEptPoMYbZDi/yKi3xlqxV2OqZJulo0UqhiWokvq675HEEjQ== "
-
     },
-
-    "moi" : {
-
-      "identifiant" : " 22372268134:25@s.whatsapp.net " ,
-
-      "nomvérifié" : " " ,
-
-      "nom" : " Madara Uchiwa 😎 "
-
-    },
-    "signedPreKey" : {
+    "signedPreKey": {
       "keyPair": {
         "private": {
           "type": "Buffer",
