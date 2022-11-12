@@ -46,8 +46,8 @@ globale . désordre  =  {
 
     endLimit : 'Votre limite quotidienne a expiré, la limite sera réinitialisée toutes les 12 heures' ,
 
-}  = [ '' , '!' , '.' , '🐦' , '🐤' , '🗿' ]
-globale . sp  =  '⭔'
+}   = [ '' , '!' , '.' , '🐦' , '🐤' , '🗿' ]
+globale . sp   =   '⭔'
 global.mess = {
     success: 'Done ✓',
     admin: 'This Feature Is Only For Admin!',
