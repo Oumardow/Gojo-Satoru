@@ -26,7 +26,7 @@ globale  .  sp   =   '⭔'
 
 globale . désordre  =  {
 
-    succès : 'Terminé ✓' ,
+    réussi : 'Terminé ✓' ,
 
     admin : 'Cette fonctionnalité est réservée aux administrateurs !' ,
 
